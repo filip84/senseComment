@@ -12,6 +12,7 @@ Comments are stored on the sense server.
 4.  The comments are autorefreshed so you can view live commenting/chatting
 5.  Comments can be styled according to the active qlik theme
 6.  All history is saved, hence you can always go back and see the previous comment/chat
+7.  All comments are stored together with the current selection, timestamp and userid
 
 ![](example_comment.gif)
 
